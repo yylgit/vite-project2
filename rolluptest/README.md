@@ -1,0 +1,2 @@
+
+在rolluptest文件夹下执行 rollup
